@@ -1,1 +1,9 @@
 # Medical_Chatbot_using_Llama2
+# Steps to run the project 
+``` bash 
+conda create -n medicalchatbot python=3.8 -y
+```
+
+``` bash
+conda activate medicalchatbot
+``` 
